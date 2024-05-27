@@ -50,3 +50,5 @@ Use the command to check and ensure node and npm are installed
     npm start
     ```
 
+### Contributors:
+Oluwaseyi Idowu => [email](idowuseyi22@gmail.com) [github](https://github.com/idowuseyi/) 
